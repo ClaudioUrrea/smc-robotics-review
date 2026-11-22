@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the article and this deposit."
+title: "Sliding Mode Control in Robotics: A Fifty-Year Review and Tutorial Since Utkin — data and code"
+authors:
+  - family-names: Urrea
+    given-names: Claudio
+    affiliation: "Department of Electrical Engineering, Faculty of Engineering, University of Santiago of Chile"
+    address: "Las Sophoras 165, Estación Central"
+    city: "Santiago"
+    post-code: "9170020"
+    country: "CL"
+    orcid: "https://orcid.org/0000-0001-7197-8928"
+version: "1.0"
+license: MIT
+doi: 10.6084/m9.figshare.34989193
+repository-code: "https://github.com/ClaudioUrrea/smc-robotics-review"

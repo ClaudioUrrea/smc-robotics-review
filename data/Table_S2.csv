@@ -1,0 +1,18 @@
+phase,step,n
+Identification,"Records exported from Web of Science, generic string W12 (11 batches)",10730
+Identification,"Additional Web of Science records from the variant-, platform- and review-specific strings",662
+Identification,"Records exported from Scopus (S01–S15, SR05–SR08; sensitivity exports excluded)",23125
+Identification,"Records from citation chasing (backward and forward, after title/year/type filter)",919
+Identification,Foundational canon (expert selection),42
+Identification,Total records identified,35478
+Identification,Duplicates removed,22803
+Screening,Unique records after duplicate removal (DOI and normalized title),12675
+Screening,"Excluded at title/abstract (X1–X4, I3, I4)",5201
+Screening,Retained for eligibility (include + context + canon candidates),7474
+Eligibility,"Mapping corpus 2016+ assessed with I1/I2 on title, abstract and keywords",7226
+Eligibility,Excluded at eligibility (X1 SMC not main method; X2 no robotic platform; X3 no abstract),1263
+Eligibility,Reclassified to context at eligibility (SMC review without platform),32
+Included,"Mapping corpus 2016–2026 (matrix, time series, validation rate)",5931
+Included,Historical canon (expert canon and accepted pre-2016 candidates),79
+Included,Context records (not primary evidence),201
+Included,"Synthesis set (curated by variant × platform cell, reviews and canon; source of the corpus examples cited)",311
